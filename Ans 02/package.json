@@ -1,0 +1,11 @@
+{
+  "name": "2nd-ans",
+  "version": "1.0.0",
+  "description": "The task was given by sir zia , i tried to complete that.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Abrar Rizvi",
+  "license": "ISC"
+}
