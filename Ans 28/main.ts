@@ -1,6 +1,8 @@
+// Ans 28
 
+// Stages of life will be describe by the help of if-else chain.
 
-let age : number = 5;
+let age : number = 2;
 if (age < 2){
     console.log("the person is a baby.")
 }else if (age >= 2 && age < 4){

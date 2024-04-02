@@ -3,11 +3,26 @@
 // in 2nd if will not execute no output will be.
 
 let alien_color: string = "green";
-if (alien_color === "green") {
+
+if (alien_color === "green") {                // This version passes if test
   console.log("The player just earned 5 points");
 }
 
  alien_color = "yellow";
-if (alien_color === "green") {
+if (alien_color === "green") {                 // This version doesn't passes if test
   console.log("The player just earned 5 points.");
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,3 +1,6 @@
+
+// Ans.26
+
 let alien_color : string = "green";
 if (alien_color === "green"){     //it runs if block
     console.log("The player just earned 5 points for shooting the alien.")

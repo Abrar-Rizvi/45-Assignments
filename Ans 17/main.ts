@@ -24,11 +24,6 @@ console.log(`Sorry! you cant invited to dinner ${person3}`)
 let person4 = invGuest.pop()
 console.log(`Sorry! you cant invited to dinner ${person4}`)
 
-// let person5 = invGuest.pop()
-// console.log(`Sorry! you cant invited to dinner ${person5}`)
-
-// let person6 = invGuest.pop()
-// console.log(`Sorry! you cant invited to dinner ${person6}`)
 
 // now letting two people know those are invited
 

@@ -4,9 +4,9 @@ Object.defineProperty(exports, "__esModule", { value: true });
 //• Tests for equality and inequality with strings
 let name = "Abrar";
 let resultName = name === "Abrar" ? true : false;
-console.log(resultName);
+console.log(resultName); //True
 let resultName2 = name !== "Abrar" ? true : false;
-console.log(resultName2);
+console.log(resultName2); //False
 // Tests using the lower case function
 let fatherName = "Muhammad Suhail";
 if (fatherName.toLowerCase() === "muhammad suhail") {

@@ -1,6 +1,8 @@
 "use strict";
+// Ans 28
 Object.defineProperty(exports, "__esModule", { value: true });
-let age = 5;
+// Stages of life will be describe by the help of if-else chain.
+let age = 2;
 if (age < 2) {
     console.log("the person is a baby.");
 }

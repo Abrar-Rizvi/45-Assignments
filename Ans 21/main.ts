@@ -1,3 +1,7 @@
+
+//Ans.21
+
+
 let employee: {
   name: string;
   fname: string;

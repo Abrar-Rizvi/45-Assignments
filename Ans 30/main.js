@@ -1,6 +1,8 @@
 "use strict";
 // // Ans 30
 Object.defineProperty(exports, "__esModule", { value: true });
+//In this question, for of loop will  iterate and print the indices when found admin will see special msg and
+// other see generic msg.
 let user_name = ["Admin", "Eric", "Tony", "Eich", "Albert", "Rambo"];
 // for -of loop
 for (let names of user_name) {

@@ -1,3 +1,6 @@
+
+// Ans.23
+
 // A series of conditional tests.
 
 // Creating 5 test which evalute True
@@ -14,11 +17,11 @@ console.log('Is car == "Honda" ? I predict True');
 console.log(car == "Honda"); //True
 
 let sirZia = "Good person";
-console.log('Is sirZia == "Good person"');
+console.log('Is sirZia == "Good person" I predict true');
 console.log(sirZia == "Good person"); //True
 
 let SirAmeenAlam = "he is expert to creat real world exmples to make understand programing.";
-console.log('is SirAmeenAlam == "he is expert to creat real world exmples to make understand programing."? i predict True') ;
+console.log('is SirAmeenAlam == "he is expert to creat real world exmples to make understand programing." ? i predict True') ;
 console.log(SirAmeenAlam == "he is expert to creat real world exmples to make understand programing."); //True
 
 // Creating 5 test which evalute False
@@ -28,7 +31,7 @@ console.log('Is myClass !== "at 2 to 5" ? I predict False');
 console.log(myclass !== "at 2 to 5"); //False
 
 let age2 = 50;
-console.log("Is age2 == 30 ? I predict Fasle");
+console.log("Is age2 == 30 ? I predict False");
 console.log(age2 == 30); //False
 
 let myWatch = "new";

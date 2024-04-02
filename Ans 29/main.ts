@@ -1,3 +1,14 @@
+
+// Ans 29
+
+// After making an array of favorite_fruits, every index will be iterated by highr order function then check certain kind 
+// of fruit in array or not.
+// if it found within array a msg will be printed.
+
+
+
+
+
 let favorite_fruits : string[] = ["banana", "apple", "lichi"]
 
 // ist if statement
